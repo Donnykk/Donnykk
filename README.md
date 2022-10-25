@@ -1,5 +1,5 @@
 ### Hi there 👋
-a NOOB CS student in Nankai University 😁😜 
+study in Nankai University ( •̀ ω •́ )✧
 
 ### GitHub stats
 
