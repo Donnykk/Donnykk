@@ -1,5 +1,5 @@
 ### Hi there 👋
-study in Nankai University ( •̀ ω •́ )✧
+an undergraduate in Nankai University ( •̀ ω •́ )✧
 
 ### GitHub stats
 
