@@ -2,6 +2,11 @@
 an undergraduate in Nankai University ( •̀ ω •́ )✧
 
 ### GitHub stats
+<table>
+    <tr>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=yuwensq&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k"></td>
+    </tr>
+</table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donnykk&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
