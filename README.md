@@ -1,6 +1,8 @@
 ### Hi there 👋
 an undergraduate in Nankai University ( •̀ ω •́ )✧
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 ### GitHub stats
 <table>
     <tr>
