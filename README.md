@@ -4,11 +4,9 @@ an undergraduate in Nankai University ( •̀ ω •́ )✧
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 ### ⚡GitHub stats
-<table>
-    <tr>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=Donnykk&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k"></td>
-    </tr>
-</table>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api username=Donnykk&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k"></a>
+
 
 ### ⚡Languages
 
