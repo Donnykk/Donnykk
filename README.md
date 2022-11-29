@@ -4,7 +4,7 @@ an undergraduate in Nankai University ( •̀ ω •́ )✧
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 ### ⚡GitHub stats
-[![](https://github-readme-stats.vercel.app/api username=Donnykk&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Donnykk&show_icons=true&theme=onedar&count_private=true&repo=github-readme-stats&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ⚡Languages
