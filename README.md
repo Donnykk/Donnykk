@@ -1,6 +1,9 @@
 ### Hi there 👋
 an undergraduate in Nankai University ( •̀ ω •́ )✧
 
+my personal blog page:
+![Donnykk's Blog](Donnykk.github.io)
+
 ![](./src/rdr2.gif)
 
 ### ⚡GitHub stats
