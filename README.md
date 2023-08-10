@@ -1,8 +1,9 @@
 ### Hi there 👋
-an undergraduate in Nankai University ( •̀ ω •́ )✧
+Currently an undergraduate in Nankai University ( •̀ ω •́ )✧
 
-my personal blog page:
-[Donnykk's Blog](http://Donnykk.github.io)
+My personal blog page:
+
+[Donnykk's Blog 🤯](http://Donnykk.github.io)
 
 ![](./src/rdr2.gif)
 
