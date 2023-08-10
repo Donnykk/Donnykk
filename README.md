@@ -3,7 +3,9 @@
 
 👉 My personal blog page: [Donnykk's Blog 🤯](http://Donnykk.github.io)
 
-👉 ![](./src/rdr2.gif)
+👉  😋😋😋
+   ![](./src/rdr2.gif)
+
 ### ⚡GitHub stats
 [![](https://github-readme-stats.vercel.app/api?username=Donnykk&show_icons=true&theme=onedar&count_private=true&repo=github-readme-stats&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
