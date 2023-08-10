@@ -4,6 +4,7 @@
 👉 My personal blog page: [Donnykk's Blog 🤯](http://Donnykk.github.io)
 
 👉  😋😋😋
+
    ![](./src/rdr2.gif)
 
 ### ⚡GitHub stats
