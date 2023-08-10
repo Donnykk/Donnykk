@@ -3,7 +3,7 @@
 
 👉 My personal blog page: [Donnykk's Blog 🤯](http://Donnykk.github.io)
 
-👉  😋😋😋
+👉 Maybe recently into CG 😋😋😋
 
    ![](./src/rdr2.gif)
 
