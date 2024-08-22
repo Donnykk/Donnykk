@@ -1,9 +1,9 @@
 ### Hi there 👋
-👉 Currently an undergraduate in Nankai University ( •̀ ω •́ )✧
+👉 Msc in NTU ( •̀ ω •́ )✧
 
 👉 My personal blog page: [Donnykk's Blog 🤯](http://Donnykk.github.io)
 
-👉 Maybe recently into CG 😋😋😋
+👉 Learning Blockchain 😋😋😋
 
    ![](./src/rdr2.gif)
 
