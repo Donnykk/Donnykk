@@ -1,9 +1,5 @@
 ### Hi there 👋
-👉 Msc in NTU ( •̀ ω •́ )✧
-
-👉 My personal blog page: [Donnykk's Blog 🤯](http://Donnykk.github.io)
-
-👉 Learning Blockchain 😋😋😋
+👉 Msc Blockchain in NTU ( •̀ ω •́ )✧
 
    ![](./src/rdr2.gif)
 
