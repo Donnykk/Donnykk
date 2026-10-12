@@ -1,5 +1,5 @@
 ### Hi there 👋
-👉 Msc Blockchain in NTU ( •̀ ω •́ )✧
+👉 Focusing on Agentic Infra
 
    ![](./src/rdr2.gif)
 
