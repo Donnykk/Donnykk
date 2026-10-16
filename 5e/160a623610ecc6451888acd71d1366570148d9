@@ -1,0 +1,21 @@
+README.md
+  s_572c9c09e35f3e::t_952339a1f3940c 3
+  s_572c9c09e35f3e::t_84826e615d064a 24
+  s_572c9c09e35f3e::t_1b1c775e82940c 26-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "5e160a623610ecc6451888acd71d1366570148d9",
+  "prompts": {},
+  "sessions": {
+    "s_572c9c09e35f3e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019facbc-3eef-75d2-9dff-62824a796346",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "donnykk <donnykk9527@gmail.com>"
+    }
+  }
+}
