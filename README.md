@@ -29,7 +29,6 @@
 <a href="https://github.com/Donnykk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Donnykk&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=github_dark&amp;show=prs_merged,prs_merged_percentage&amp;cache_seconds=21600">
-    <img alt="Donnykk's public GitHub statistics, including merged pull requests and merge rate" src="https://github-readme-stats.vercel.app/api?username=Donnykk&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=default&amp;show=prs_merged,prs_merged_percentage&amp;cache_seconds=21600" width="495">
   </picture>
 </a>
 
